@@ -35,12 +35,12 @@ Cluster Visualization
 
 🚀 How to Run
 
-Install dependencies:
+#Install dependencies:
 
 pip install -r requirements.txt
 
 
-Run Jupyter Notebook:
+#Run Jupyter Notebook:
 
 notebooks/Task_02_CustomerSegmentation.ipynb
 
